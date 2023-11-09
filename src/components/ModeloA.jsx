@@ -58,6 +58,7 @@ const ModeloA = () => {
     respuesta4:"",
     documentoF:"",
     fechaR2:"",
+    dr:"",
     // Agrega aquí todos los inputs que necesites
   };
   const [formValues, setFormValues] = useState({
@@ -112,6 +113,8 @@ const ModeloA = () => {
     respuesta4:"",
     documentoF:"",
     fechaR2:"",
+    dr:"",
+
     // Agrega aquí todos los inputs que necesites
   });
 

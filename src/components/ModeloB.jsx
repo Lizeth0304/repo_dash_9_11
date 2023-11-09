@@ -35,6 +35,8 @@ const ModeloB = () => {
     expediente:"",
     derivadoA:"",
     fechaR2:"",
+    dr2:"",
+
     // Agrega aquí todos los inputs que necesites
   };
   const [formValues, setFormValues] = useState({
@@ -66,6 +68,8 @@ const ModeloB = () => {
     expediente:"",
     derivadoA:"",
     fechaR2:"",
+    dr2:"",
+
     // Agrega aquí todos los inputs que necesites
   });
   const [tableData, setTableData] = useState(null);

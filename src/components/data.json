@@ -1,0 +1,85 @@
+{
+  "centrosDeCosto": {
+    "comision_fiscalizacion": {
+      "correo": "comision@une.edu.pe",
+      "mensaje": "Dr. Ángel Albino Cochachi Quispe<br>Dra. Irene Roxana Abad Lezama<br>Jean Pierre Campos Rivera<br>Jorge Ysaac Angles Camacho<br>Comisión Permanente de Fiscalización de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "defensor_universitario": {
+      "correo": "defensoria@une.edu.pe",
+      "mensaje": "Mtro.<br>Nicéforo Ladislao TRINIDAD LOLI<br>Defensor Universitario de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "oficina_asesoria": {
+      "correo": "asesoria@une.edu.pe",
+      "mensaje": "Abg.<br>Marcial Curahua Callañaupa<br>Jefe (e) de la Oficina de Asesoría Legal de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "oficina_planeamiento": {
+      "correo": "planificacion@une.edu.pe",
+      "mensaje": "C.P.C.<br>Alejandro Juan Mayhuire Gallegos<br>Director de la Oficina de Planeamiento Estratégico y Presupuesto de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "organo_control": {
+      "correo": "oci@une.edu.pe",
+      "mensaje": "CPC. Mg.<br>Martha Eugenia Espinoza Pastor de Huanca<br>Jefa del Órgano de Control Institucional de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "tribunal_honor": {
+      "correo": "tribunal@une.edu.pe",
+      "mensaje": "Mg.<br>Aurelio Julián GÁMEZ TORRES<br>Presidente del Tribunal de Honor de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "unidad_organizacion": {
+      "correo": "organizacion@une.edu.pe",
+      "mensaje": "Lic. Adm.<br>Luz Gianina Tutaya Cárdenas<br>Jefa (e) de la Unidad de Organización y Procesos de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "unidad_planeamiento": {
+      "correo": "planeamiento@une.edu.pe",
+      "mensaje": "Lic.<br>Feliciano Achulli Solar<br>Jefe de la Unidad de Planeamiento de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "unidad_presupuesto": {
+      "correo": "presupuesto@une.edu.pe",
+      "mensaje": "Lic.<br>Jenny Maricel Armas Zacarias<br>Jefa (e) de la Unidad de Presupuesto de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "unidad_rectorado": {
+      "correo": "urectorado@une.edu.pe",
+      "mensaje": "Sra.<br>Ada Margot SÁNCHEZ TANTAS<br>Jefa de la Unidad del Rectorado de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "unidad_vicerrectorado_academico": {
+      "correo": "",
+      "mensaje": "Sra.<br>Rosa Bertha TICLAYAURI MALDONADO<br>Jefa de la Unidad del Vicerrectorado Académico de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "unidad_vicerrectorado_investigacion": {
+      "correo": "",
+      "mensaje": "Lic.<br>Maribel Fanny QUINTANA ROCHA<br>Jefa de la Unidad de Vicerrectorado de Investigación de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "vicerrectorado_academico": {
+      "correo": "vice-academico@une.edu.pe",
+      "mensaje": "Dr.<br>Vladimiro DEL CASTILLO NARRO<br>Vicerrector Académico de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "vicerrectorado_de_investigacion": {
+      "correo": "vinvestigacion@une.edu.pe",
+      "mensaje": "Dr.<br>Daniel Marcos CHIRINOS MALDONADO<br>Vicerrector de Investigacion de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+
+
+
+
+
+    "escuela_de_posgrado": {
+      "correo": "mtello@une.edu.pe",
+      "mensaje": "Mtra.<br>Mario Tello Vega<br>Escuela De Posgrado (e) de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "facultad_ciencias_sociales": {
+      "correo": "folano@une.edu.pe",
+      "mensaje": "Mtra.<br>Francisco Jose Olano Martinez<br>Facultad De Ciencias Sociales Y Humanidades (e) de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "secretaria_general": {
+      "correo": "achacon@une.edu.pe",
+      "mensaje": "Mtra.<br>Anita Luz Chacón Ayala<br>Secretaria General (e) de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "prueba": {
+      "correo": "estebanjcarlo@gmail.com",
+      "mensaje": "Mtra.<br>Jhancarlo Esteban Coro<br>Ingeniero de Sistemas de la UNE<br>Presente.-<br><br>Por encargo de la Dra. Lida Violeta Asencios Trujillo (Rectora de la UNE) remito:"
+    },
+    "otro": {
+      "correo": "",
+      "mensaje": ""
+    }
+  }
+}

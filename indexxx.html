@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prueba de createPdfB</title>
+</head>
+<body>
+  <button id="btn-generar-pdf">Generar PDF de prueba</button>
+
+  <script src="https://unpkg.com/pdf-lib"></script>
+  <script src="src/components/createPdfB.js"></script>
+  <script>
+    document.getElementById('btn-generar-pdf').addEventListener('click', async () => {
+      // Valores de ejemplo para probar createPdfB
+      const input1Value = 'Ejemplo de Envío';
+      const input2Value = '2023-08-02';
+      const input3Value = '5';
+
+      try {
+        const pdfBytes = await createPdfB(input1Value, input2Value, input3Value);
+        console.log('PDF generado exitosamente!');
+        console.log(pdfBytes);
+      } catch (error) {
+        console.error('Error al generar el PDF:', error);
+      }
+    });
+  </script>
+</body>
+</html>

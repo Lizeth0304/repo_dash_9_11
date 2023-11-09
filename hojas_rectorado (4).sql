@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 09-11-2023 a las 16:45:53
+-- Tiempo de generación: 09-11-2023 a las 17:57:25
 -- Versión del servidor: 10.4.28-MariaDB
 -- Versión de PHP: 8.2.4
 
@@ -3557,7 +3557,10 @@ INSERT INTO `hojas_rectorado` (`id`, `n_exp`, `c`, `s`, `dependencia`, `document
 (3472, '', '', '', 'OTI', 'OFICIO No 210-2023-OTI', '11', '7/11/2023', 'Requerimiento de equipamiento sala de reuniones del Rectorado.', '7/11/2023', '12/11/2023', '0', '', 'DIGA', '', 'H.E. N° 3062-2023-R-UNE', '', '', '', '', '', '', '', '', ''),
 (3473, '', '', '', 'Presidente de la Comisión de Depuración y Sinceramiento Contable', 'INFORME N° 003-2023-CDS-UNE EGyV', '11', '6/11/2023', 'Avance de Ejecucion del Plan de Depuración y Sinceramiento contable', '6/11/2023', '11/11/2023', '0', '', 'Secretaria General', '', 'H.E. N° 3052-A-2023-R-UNE', '', '', '', '', '', '', '', '', ''),
 (3474, '', '', '', 'Vr. Académico', 'OFICIO N° 1245-2023-VR-ACAD', '11', '7/11/2023', 'MODIFICACIÓN DE CARGA LECTIVA 2023-II DEL PREGRADO REGULAR, DOCENTES ORDINARIOS DE LA FACULTAD DE AGROPECUARIA Y NUTRICION', '7/11/2023', '12/11/2023', '0', '', 'Secretaria General', '', 'H.T. N° 1077-2023-R-UNE', '', '', '', '', '', '', '', '', ''),
-(3475, '', '', '', 'Vr. de Investigación', 'OFICIO N° 503-2023-VRI-UNE', '11', '6/11/2023', 'Solicito autorización para participar en el Encuentro internacional para el fortalecimiento y articulación de ecosistemas de innovación, investigación aplicada y emprendimiento / VI VIAJA A CUBA DEL 13 AL 15 DE DICIEMBRE', '7/11/2023', '11/11/2023', '1', '', 'Secretaria General', '', 'H.T. N° 1078-2023-R-UNE', '', '', '', '', '', '', '', '', '');
+(3475, '', '', '', 'Vr. de Investigación', 'OFICIO N° 503-2023-VRI-UNE', '11', '6/11/2023', 'Solicito autorización para participar en el Encuentro internacional para el fortalecimiento y articulación de ecosistemas de innovación, investigación aplicada y emprendimiento / VI VIAJA A CUBA DEL 13 AL 15 DE DICIEMBRE', '7/11/2023', '11/11/2023', '1', '', 'Secretaria General', '', 'H.T. N° 1078-2023-R-UNE', '', '', '', '', '', '', '', '', ''),
+(3484, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(3485, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+(3486, NULL, NULL, NULL, NULL, 'OFICIO N° 503-2023-VRI-UNE', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 
 --
 -- Índices para tablas volcadas
@@ -3577,7 +3580,7 @@ ALTER TABLE `hojas_rectorado`
 -- AUTO_INCREMENT de la tabla `hojas_rectorado`
 --
 ALTER TABLE `hojas_rectorado`
-  MODIFY `id` int(4) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3484;
+  MODIFY `id` int(4) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3491;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
